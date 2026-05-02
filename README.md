@@ -66,3 +66,6 @@ Output:
 * Misuse: could give repetitive suggestions
 
 AI was helpful in suggesting structure, but sometimes gave overly complex solutions that were simplified for this implementation.
+
+## Loom Video
+https://www.loom.com/share/5e5d6956cd6e479e8fbdda6469cff83d
